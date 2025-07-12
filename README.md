@@ -1,8 +1,8 @@
 # 👩‍💻 Sobre Mim:
 💻 Sou estudante de Ciência da Computação na UFPel com foco em análise de dados e backend. Gosto de trabalhar com tecnologias como Java, Python, SQL e APIs e estou sempre em busca de projetos para aplicar e aprimorar meus conhecimentos.<br><br>🔍 Estou procurando colaborar em: Projetos inovadores e ambientes colaborativos onde eu possa aplicar minhas habilidades em análise de dados, bancos de dados e desenvolvimento de software.<br><br>🌱Atualmente, estou desenvolvendo minhas habilidades em:
-* **Ciência de Dados com Python:** Focando em Machine Learning, estatística e manipulação de dados.
-* **Análise e Modelagem com R:** Incluindo manipulação de dados, limpeza e criação de visualizações interativas.
-* **Business Intelligence e SQL:** Aprofundando em ferramentas como Tableau e BigQuery, junto com técnicas avançadas de SQL.
+* **Ciência de Dados com Python:** Aplicando Machine Learning e estatística para gerar insights a partir de dados.
+* **Backend:** Focando no desenvolvimento de sistemas robustos e na criação de APIs (REST) com Java, C e Python.
+* **Análise de Dados:** Usando R para modelagem estatística e ferramentas de BI (Tableau, BigQuery) para visualizações e consultas em SQL.
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kananda-winter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanandabw@gmail.com)
 
